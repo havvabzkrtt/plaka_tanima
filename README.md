@@ -51,6 +51,4 @@ SQLite, sunucusuz çalışan hafif bir veritabanı yönetim sistemidir. OCR ile 
 
 Veritabanı işlemleri, tespit edilen plakaların kaydedilmesi, güncellenmesi ve gerektiğinde sorgulanmasını sağlar.
 
----
 
-Proje boyunca her aşama için gerekli detaylar yukarıdaki adımlara göre yapılabilir.
