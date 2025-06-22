@@ -2,12 +2,12 @@
 # License Plate Recognition Project / Plaka Tanıma Projesi
 
 ## 📌 Languages / Diller
-- [🇬🇧 English](#english)
-- [🇹🇷 Türkçe](#türkçe)
+- [English](#english)
+- [Türkçe](#türkçe)
 
 ---
 
-## 🇬🇧 English
+## English
 
 This project performs license plate detection from images or videos using the YOLOv8 model. Detected plates are converted into digital text using OCR (Optical Character Recognition) and then stored in an SQLite database.
 
@@ -60,7 +60,7 @@ SQLite is a lightweight, serverless database system. The license plate texts ext
 
 ---
 
-## 🇹🇷 Türkçe
+## Türkçe
 
 Bu projede, YOLOv8 modeli kullanılarak resim veya video üzerinden plaka tespiti yapılır. Tespit edilen plakalar, OCR (Optik Karakter Tanıma) ile dijital metin haline getirilir ve son olarak SQLite veritabanına kaydedilir.
 
